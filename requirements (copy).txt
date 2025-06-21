@@ -1,0 +1,13 @@
+fastapi
+uvicorn[standard]
+pandas
+requests
+beautifulsoup4
+python-dotenv
+jinja2
+httpx
+deep-translator
+openpyxl
+unidecode
+googletrans==4.0.0-rc1
+nltk
